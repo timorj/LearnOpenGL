@@ -5,3 +5,5 @@
 用的是OpenTK作为的OpenGL的版本。
 
 Git has a mutable index called stage.
+
+Git tracks changes.
